@@ -1,0 +1,7 @@
+domain: wtam2018.com
+layout: go.kubebuilder.io/v2
+projectName: memcached-operator
+repo: github.com/wtam2018/memcached-operator
+version: 3-alpha
+plugins:
+  go.sdk.operatorframework.io/v2-alpha: {}
